@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ox-website/static/css/main.ea45b1fc.chunk.css",
+    "main.js": "/ox-website/static/js/main.0b5c3538.chunk.js",
+    "main.js.map": "/ox-website/static/js/main.0b5c3538.chunk.js.map",
+    "runtime-main.js": "/ox-website/static/js/runtime-main.f834a976.js",
+    "runtime-main.js.map": "/ox-website/static/js/runtime-main.f834a976.js.map",
+    "static/js/2.6aa9449b.chunk.js": "/ox-website/static/js/2.6aa9449b.chunk.js",
+    "static/js/2.6aa9449b.chunk.js.map": "/ox-website/static/js/2.6aa9449b.chunk.js.map",
+    "index.html": "/ox-website/index.html",
+    "precache-manifest.d158c8ddc2134c6e86c668cf25c16a85.js": "/ox-website/precache-manifest.d158c8ddc2134c6e86c668cf25c16a85.js",
+    "service-worker.js": "/ox-website/service-worker.js",
+    "static/css/main.ea45b1fc.chunk.css.map": "/ox-website/static/css/main.ea45b1fc.chunk.css.map",
+    "static/js/2.6aa9449b.chunk.js.LICENSE": "/ox-website/static/js/2.6aa9449b.chunk.js.LICENSE",
+    "static/media/OXB-FULL.png": "/ox-website/static/media/OXB-FULL.9d1ebf9a.png",
+    "static/media/OXB-sticker.png": "/ox-website/static/media/OXB-sticker.3339b84f.png",
+    "static/media/logo.svg": "/ox-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f834a976.js",
+    "static/js/2.6aa9449b.chunk.js",
+    "static/css/main.ea45b1fc.chunk.css",
+    "static/js/main.0b5c3538.chunk.js"
+  ]
+}
