@@ -21,6 +21,7 @@ function App() {
       <h1>FULL SITE COMING SOON! </h1>
       <h4>for now visit us at...</h4>
       <Button variant="contained" className="book" href="https://square.site/book/QBS9PPQ431P02/the-oxford-barber-company-greenville-sc">Book Now</Button>
+      <Button variant="contained" className="book" href="https://squareup.com/gift/KKZT73JH9V3HG/order">Gift Card</Button>
       <div className="social-wrapper">
         <a calssName="social-items" href="https://www.facebook.com/TheOxfordBarberCo/" rel="noopener noreferrer" target="_blank">
           <FontAwesomeIcon className="social-icons" icon={faFacebook} />
